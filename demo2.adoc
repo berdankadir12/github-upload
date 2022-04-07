@@ -1,0 +1,23 @@
+
+= Title Slide
+:author: Berdan Kadir
+
+== Slide One
+
+* Foo
+* Bar
+* World
+
+=== Details for Foo
+
+blabla
+
+== Slide Two
+
+A Great Story
+
+[.notes]
+--
+* tell anecdote
+* make a point
+--
